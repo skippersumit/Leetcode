@@ -1,1 +1,1 @@
-​
+used binary search approach here. This helped in acheiving the O(log n) space complexity

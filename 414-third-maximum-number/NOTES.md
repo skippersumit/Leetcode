@@ -1,0 +1,1 @@
+Used the approach of creating three variables that I control using if ele statements

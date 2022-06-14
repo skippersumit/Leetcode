@@ -1,0 +1,1 @@
+length1 - LCS + length2 - LCS
